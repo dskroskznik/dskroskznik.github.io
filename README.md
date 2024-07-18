@@ -5,9 +5,6 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=5000&color=02D9F7&repeat=true&random=false&width=435&lines=Welcome+To+My+GitHub+Page!)](https://git.io/typing-svg)
 # Greetings
-<img src="https://komarev.com/ghpvc/?username=dskroskznik&color=blue&abbreviated=true&label=PROFILE+VIEWS"/> <img src="https://visitor-badge.laobi.icu/badge?page_id=dskroskznik.dskroskznik"/> 
-<img src="https://img.shields.io/github/followers/dskroskznik?logo=github"/> <img src="https://img.shields.io/github/stars/dskroskznik"/>
-
 
 <!-- Business Card --->
   <html xmlns="http://www.w3.org/1999/xhtml">
