@@ -136,10 +136,9 @@ You can click the Preview link to take a look at your changes.
 
 - CS Areas of Interest include Software Development, Machine Learning, Data Analysis & Data Management.
 
-- Hobbies include programming, analyzing data, viewing sports, watching films, playing/listening to music, cooking.
+- Hobbies include programming, analyzing data, viewing sports, watching films, playing/listening to music, and cooking.
 
--
-- Currently pursuing interests in entry level/full-time positions in the Computer Science and Engineering fields. 
+- Currently pursuing interests in entry-level/full-time positions in the Computer Science and Engineering fields. 
 
 [Here's My Resume](/Official_Resume_Dylan_S.pdf)
 
