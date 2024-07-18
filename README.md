@@ -126,23 +126,7 @@ You can click the Preview link to take a look at your changes.
     </body>
   </html>
   
-
-<details>
-<summary> About Me TL;DR </summary>
-
-- Driven to create and passionate about sharing new discoveries.
-  
-- Graduated with a Bachelors Degree in Computer Science @ Univ. of South Florida.
-
-- CS Areas of Interest include Software Development, Machine Learning, Data Analysis & Data Management.
-
-- Hobbies include programming, analyzing data, viewing sports, watching films, playing/listening to music, and cooking.
-
-- Currently pursuing interests in entry-level/full-time positions in the Computer Science and Engineering fields. 
-
-[Here's My Resume](/Official_Resume_Dylan_S.pdf)
-
-</details>
+## About Me
 
 ```py
 Ever since I was young one born and raised in Tampa, Florida, I always had the 
@@ -176,13 +160,20 @@ What matters most to me is maintaining a strong work ethic and showing respect f
 ```
 [Here's My Resume](/Official_Resume_Dylan_S.pdf)
 
+### About Me TL;DR
+ - Driven to create and passionate about sharing NEW discoveries.
+ - Graduated with a Bachelors Degree in Computer Science @ Univ. of South Florida.
+ - CS Areas of Interest include Software Development, Machine Learning, Data Analysis & Data Management.
+ - Hobbies include programming, analyzing data, viewing sports, watching films, playing/listening to music, and cooking.
+ - Currently pursuing interests in entry-level/full-time positions in the Computer Science and Engineering fields.
+   
 ### Some Interests/Hobbies of mine include:
  - Developing Web Applications/Practicing Programming 💻 
- - Analyizing and Maintaining Data 📊 
+ - Analyzing and Maintaining Data 📊 
  - Enjoying and Discovering Films🎞
  - Listening to Music/Playing Instruments, like Piano and Guitar 🎹 
  - Learning to Cook More Meals and Dishes 🥘
- - Practicing a New Language on my freetime, like French 🥖
+ - Practicing a New Language on my free time, like French 🥖
 
 ### Recent Blog Posts
 <!--START_SECTION:medium-->
