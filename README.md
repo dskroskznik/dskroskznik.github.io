@@ -131,11 +131,17 @@ You can click the Preview link to take a look at your changes.
 <summary> About Me TL;DR </summary>
 
 - Driven to create and passionate about sharing new discoveries.
+  
 - Graduated with a Bachelors Degree in Computer Science @ Univ. of South Florida.
+
 - CS Areas of Interest include Software Development, Machine Learning, Data Analysis & Data Management.
+
 - Hobbies include programming, analyzing data, viewing sports, watching films, playing/listening to music, cooking.
+
+-
 - Currently pursuing interests in entry level/full-time positions in the Computer Science and Engineering fields. 
-- [Here's My Resume](/Official_Resume_Dylan_S.pdf)
+
+[Here's My Resume](/Official_Resume_Dylan_S.pdf)
 
 </details>
 
