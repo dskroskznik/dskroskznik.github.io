@@ -3,7 +3,7 @@
 dskroskznik/dskroskznik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=5000&color=02D9F7&repeat=true&random=false&width=435&lines=Welcome+To+My+GitHub+Page!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=5000&color=02D9F7&repeat=true&random=false&width=435&lines=Welcome+To+My+Website!)](https://git.io/typing-svg)
 # Greetings
 
 <!-- Business Card --->
