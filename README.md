@@ -158,7 +158,7 @@ What matters most to me is maintaining a strong work ethic and showing respect f
  professional growth.
 
 ```
-[Here's My Resume](/Official_Resume_Dylan_S.pdf)
+[Here's My Resume](https://github.com/user-attachments/files/16848189/Official_Resume_Dylan_S_1.pdf)
 
 ### About Me TL;DR
  - Driven to create and passionate about sharing NEW discoveries.
