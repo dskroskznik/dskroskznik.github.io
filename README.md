@@ -3,17 +3,51 @@
 dskroskznik/dskroskznik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=5000&color=02D9F7&repeat=true&random=false&width=435&lines=Welcome+To+My+Website!)](https://git.io/typing-svg)
-# Greetings
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=5000&color=02D9F7&repeat=true&random=false&width=435&lines=Welcome+To+My+GitHub!)](https://git.io/typing-svg)
+# Greetings, I'm Dylan Skroskznik 
+<img src="https://komarev.com/ghpvc/?username=dskroskznik&color=blue&abbreviated=true&label=PROFILE+VIEWS"/> <img src="https://visitor-badge.laobi.icu/badge?page_id=dskroskznik.dskroskznik"/> 
+<img src="https://img.shields.io/github/followers/dskroskznik?logo=github"/> <img src="https://img.shields.io/github/stars/dskroskznik"/>
+<br />
+<code>[![](https://img.shields.io/static/v1?style=for-the-badge&label=website&message=dylan%20s.&labelColor=1e90ff&color=white)](https://linktr.ee/dskroskznik)</code>
+ <code>[![](https://img.shields.io/badge/follow-33333?style=for-the-badge&logo=github&label=github&labelColor=000&color=white)](https://github.com/dskroskznik)</code> 
+ <code>[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-skroskznik/)</code>
+<br /> 
+<code>[![](https://img.shields.io/badge/Gmail-DC1410?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dskroskznik@gmail.com)</code> 
+<code>[![](https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)</code> 
+<code>[![](https://img.shields.io/badge/Facebook-001fff?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dylan-skroskroznik)</code> 
+<code>[![](https://img.shields.io/badge/discord-4169f1?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/368455378117328896)</code>
+
+
+### About Me
+ - Analytical, Passionate, Creative, Aspiring.
+ - Raised and live in Tampa, Florida. 
+ - First Generation Graduate with Bachelor of Science Degree in Computer Science.
+ - Data Analysis, Data Engineering, Machine Learning/Ai & Software Development are my career interests.
+ - Currently pursuing open job internship/entry-level positions for Data Analysts/Engineering and Software Dev.
+   
+### Interests/Hobbies of Mine:
+ - Practicing Programming Skills while Developing Software/WebApps 💻 
+ - Analyzing & Visualizing Varieties of Data 📊 
+ - Watching & Discovering New Films & TV 🎞
+ - Listening to Music & Practicing the Piano 🎹
+ - Expanding my Pallet While Learning to Cook More Dishes 🥘 
+ - Staying Active by Attending The Gym 🏋️‍♀️
+ - Learning Different World Dialect like French 🥖
+
+
+> [Resume_Hyperlink](/Official_Resume_Dylan_S.pdf)
+
+> [Resume_Download.pdf](https://github.com/user-attachments/files/20752197/Official_Resume_Dylan_S.pdf)
 
 <!-- Business Card --->
+<!DOCTYPE html>
   <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     </head>
     <body>
         <table id="zs-output-sig" border="0" cellpadding="0" cellspacing="0"
-            style="font-family:Arial,Helvetica,sans-serif;line-height:0px;font-size:1px;padding:0px!important;border-spacing:0px;margin:0px;border-collapse:collapse; width:550px;">
+            style="font-family:Arial,Helvetica,sans-serif;line-height:0px;font-size:1px;padding:0px!important;border-spacing:0px;margin:0px;border-collapse:collapse; width:560px;">
             <tbody><tr></tr>
                 <tr><td style="padding:0px!important;">
                         <table id="inner-table" border="0" cellpadding="0" cellspacing="0"
@@ -49,13 +83,10 @@ You can click the Preview link to take a look at your changes.
                                                                         <p style="margin: 0.04px;"><span style="font-family:Calibri,Helvetica,sans-serif;font-size:15px;font-style:normal;line-height:17px;font-weight:400;color:#5e4036;display:inline;">Web:</span><span style="font-family:Calibri,Helvetica,sans-serif;font-size:15px;font-style:normal;line-height:17px;font-weight:400;color:#282828;display:inline;"> https://linktr.ee/dskroskznik</span>
                                                                         </p></td></tr>
                                                                 <tr><td style="border-collapse: collapse; font-family: Calibri, Helvetica, sans-serif; font-size: 15px; font-style: normal; line-height: 17px; font-weight: 400; padding-bottom: 6px;">
-                                                                        <p style="margin: 0.04px;"><span style="font-family:Calibri,Helvetica,sans-serif;font-size:15px;font-style:normal;line-height:17px;font-weight:400;color:#5e4036;display:inline;">Email:</span><span style="font-family:Calibri,Helvetica,sans-serif;font-size:15px;font-style:normal;line-height:17px;font-weight:400;color:#282828;display:inline;"> dskroskznik@gmail.com</span>
+                                                                        <p style="margin: 0.04px;"><span style="font-family:Calibri,Helvetica,sans-serif;font-size:15px;font-style:normal;line-height:17px;font-weight:400;color:#5e4036;display:inline;">Email:</span><span style="font-family:Calibri,Helvetica,sans-serif;font-size:15px;font-style:normal;line-height:17px;font-weight:400;color:#282828;display:inline;"> dskroskznik@outlook</span>
                                                                         </p></td></tr>
                                                             </tbody>
                                                         </table>
-                                                    </td>
-                                                    <td
-                                                        style="border-collapse:collapse;background-color:#000001;width:3px;vertical-align:super;padding:0px!important;">
                                                     </td>
                                                     <td style="border-collapse:collapse;padding-right:16px;"></td>
                                                     <td style="padding:0px!important;">
@@ -79,7 +110,7 @@ You can click the Preview link to take a look at your changes.
                                                                         <p style="margin: 0.04px;"><a
                                                                                 style="font-size:0px;line-height:0px;"
                                                                                 target="_blank" rel="nofollow"
-                                                                                href="https://www.facebook.com/dylan.skroskroznik/"><img
+                                                                                href="https://www.facebook.com/dylan-skroskroznik"><img
                                                                                     height="34" width="34" alt="twitter"
                                                                                     border="0"
                                                                                     src="https://img1.gimm.io/assets/social/96/000000/4/facebook.png"></a>
@@ -114,21 +145,46 @@ You can click the Preview link to take a look at your changes.
                                                         </table></td></tr></tbody>
                                         </table></td></tr></tbody>
                         </table></td></tr>
-                <tr>
-                    <td style="border-collapse:collapse;padding-bottom:16px;"><span></span></td>
-                </tr>
-                <tr>
-                    <td style="border-collapse:collapse">
                     </td>
                 </tr>
             </tbody>
         </table>
     </body>
   </html>
-  
-## About Me
 
-```py
+### Recent Blog Posts
+<details><summary> View </summary>
+<!--START_SECTION:medium-->
+<!--END_SECTION:medium-->
+</details>
+
+### GitHub Statistics 
+<details><summary> View </summary>
+
+| GitHub Statstics | Programming Languages used |
+|--|--|
+| ![](https://github-readme-stats.vercel.app/api?username=dskroskznik&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=github_dark) | [![Top Langs Dylan Used Dark Only](https://github-readme-stats.vercel.app/api/top-langs/?username=dskroskznik&layout=compact&langs_count=10&theme=dark)](https://github.com/dskroskznik/github-readme-stats#gh-dark-mode-only) |
+
+| GitHub Profile Details | GitHub Profile Trophies | 
+|--|--|
+| ![](https://stats.justsong.cn/api/github?username=dskroskznik)| ![](https://github-profile-trophy.vercel.app/?username=dskroskznik&&title=Repositories,Commits,MultiLanguage&column=3&margin-w=3&margin-h=20) |
+
+| GitHub README activity |
+|--|
+| [![](https://streak-stats.demolab.com?user=dskroskznik&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&card_width=500&card_height=170&fire=0FA7EB)](https://git.io/streak-stats) |
+
+| LeetCode Progress | 
+|--|
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/dskroskznik?theme=wtf&font=Roboto) | 
+
+<!--[![Top Langs Dylan Used Light Only](https://github-readme-stats.vercel.app/api/top-langs/?username=dskroskznik&layout=donut&langs_count=8&theme=light#gh-light-only-mode)](https://github.com/dskroskznik/github-readme-stats#gh-light-mode-only)
+--> 
+</details>
+
+### Conclusion
+<details><summary> View </summary>
+
+```js
 Ever since I was young one born and raised in Tampa, Florida, I always had the 
  drive to create and a passion to share new ideas and discoveries. I've uncovered 
  through my passions and drive that computer science/engineering was the right 
@@ -158,48 +214,7 @@ What matters most to me is maintaining a strong work ethic and showing respect f
  professional growth.
 
 ```
-[Here's My Resume](https://github.com/user-attachments/files/16848189/Official_Resume_Dylan_S_1.pdf)
-
-### About Me TL;DR
- - Driven to create and passionate about sharing NEW discoveries.
- - Graduated with a Bachelors Degree in Computer Science @ Univ. of South Florida.
- - CS Areas of Interest include Software Development, Machine Learning, Data Analysis & Data Management.
- - Hobbies include programming, analyzing data, viewing sports, watching films, playing/listening to music, and cooking.
- - Currently pursuing interests in entry-level/full-time positions in the Computer Science and Engineering fields.
-   
-### Some Interests/Hobbies of mine include:
- - Developing Web Applications/Practicing Programming 💻 
- - Analyzing and Maintaining Data 📊 
- - Enjoying and Discovering Films🎞
- - Listening to Music/Playing Instruments, like Piano and Guitar 🎹 
- - Learning to Cook More Meals and Dishes 🥘
- - Practicing a New Language on my free time, like French 🥖
-
-### Recent Blog Posts
-<!--START_SECTION:medium-->
-<!--END_SECTION:medium-->
-
-### GitHub Statistics 
-
-| GitHub Statstics | Programming Languages used |
-|--|--|
-| ![](https://github-readme-stats.vercel.app/api?username=dskroskznik&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=github_dark) | [![Top Langs Dylan Used Dark Only](https://github-readme-stats.vercel.app/api/top-langs/?username=dskroskznik&layout=compact&langs_count=10&theme=dark)](https://github.com/dskroskznik/github-readme-stats#gh-dark-mode-only) |
-
-| GitHub Profile Details | GitHub Profile Trophies | 
-|--|--|
-| ![](https://stats.justsong.cn/api/github?username=dskroskznik)| ![](https://github-profile-trophy.vercel.app/?username=dskroskznik&&title=Repositories,Commits,MultiLanguage&column=3&margin-w=3&margin-h=20) |
-
-| GitHub README activity |
-|--|
-| [![](https://streak-stats.demolab.com?user=dskroskznik&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&card_width=500&card_height=170&fire=0FA7EB)](https://git.io/streak-stats) |
-
-| LeetCode Progress | 
-|--|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/dskroskznik?theme=wtf&font=Roboto) | 
-
-<!--[![Top Langs Dylan Used Light Only](https://github-readme-stats.vercel.app/api/top-langs/?username=dskroskznik&layout=donut&langs_count=8&theme=light#gh-light-only-mode)](https://github.com/dskroskznik/github-readme-stats#gh-light-mode-only)
---> 
+</details>
 
 <br />
 <br />
-
