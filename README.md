@@ -35,8 +35,7 @@ You can click the Preview link to take a look at your changes.
  - Learning Different World Dialect like French 🥖
 
 
-> [Resume_Hyperlink](/Official_Resume_Dylan_S.pdf)
-)
+> [Resume_Hyperlink](https://github.com/dskroskznik/dskroskznik/blob/main/Official_Resume_Dylan_S.pdf)
 
 > [Resume_Download.pdf](https://github.com/user-attachments/files/20752197/Official_Resume_Dylan_S.pdf)
 
